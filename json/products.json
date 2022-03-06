@@ -1,0 +1,53 @@
+
+{
+    "products": [
+        {
+			"id": 5,
+			"url": "#",
+			"title": "Инжир",
+			"text": "",
+			"labels": "",
+			"image": "05.png",
+			"price": "250",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+        {
+			"id": 6,
+			"url": "#",
+			"title": "Огурцы",
+			"text": "",
+			"labels": "",
+			"image": "06.png",
+			"price": "80",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+        {
+			"id": 7,
+			"url": "#",
+			"title": "Стейк свинина",
+			"text": "",
+			"labels": "",
+			"image": "07.png",
+			"price": "450",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+        {
+			"id": 8,
+			"url": "#",
+			"title": "Брокколи",
+			"text": "",
+			"labels": "",
+			"image": "08.png",
+			"price": "190",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+    ]
+}
